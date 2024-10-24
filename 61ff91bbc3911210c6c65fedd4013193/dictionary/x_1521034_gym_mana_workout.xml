@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2780edfbc3911210c6c65fedd40131d3" label="Workout" max_length="40" name="x_1521034_gym_mana_workout" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" mandatory="true" max_length="125" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="200" name="description" type="string"/>
+    </element>
+</database>
