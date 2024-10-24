@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4da2fd77835112106a3bc7b6feaad37a" extends="task" label="Transactions" max_length="40" name="x_1521034_gym_mana_transactions" type="collection">
+        <element label="Member" max_length="40" name="member" reference="sys_user" type="string"/>
+        <element label="Workout Plan" max_length="32" name="workout_plan" reference="x_1521034_gym_mana_workout_plans" type="reference"/>
+    </element>
+</database>
