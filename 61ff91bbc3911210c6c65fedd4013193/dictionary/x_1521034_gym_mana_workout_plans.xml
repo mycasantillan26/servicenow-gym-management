@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5bdf69b7831112106a3bc7b6feaad3f0" label="Workout Plans" max_length="40" name="x_1521034_gym_mana_workout_plans" type="collection">
+        <element label="Short Description" max_length="40" name="short_description" type="string"/>
+        <element label="Number" max_length="40" name="number" type="string"/>
+        <element label="Estimated Completion" max_length="40" name="estimated_completion" type="glide_time"/>
+        <element display="true" label="Workouts" max_length="4000" name="workouts" type="glide_list"/>
+        <element label="Trainer" max_length="40" name="trainer" reference="sys_user" type="string"/>
+    </element>
+</database>

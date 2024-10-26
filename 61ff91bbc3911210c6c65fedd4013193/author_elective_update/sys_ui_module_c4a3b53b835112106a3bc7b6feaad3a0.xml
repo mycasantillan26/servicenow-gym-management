@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Transactions">0ca3b53b835112106a3bc7b6feaad39d</application>
+        <filter/>
+        <name>Transactions</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1521034_gym_mana.transactions_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-24 03:59:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c4a3b53b835112106a3bc7b6feaad3a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Transactions</sys_name>
+        <sys_package display_value="Gym Management" source="x_1521034_gym_mana">61ff91bbc3911210c6c65fedd4013193</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gym Management">61ff91bbc3911210c6c65fedd4013193</sys_scope>
+        <sys_update_name>sys_ui_module_c4a3b53b835112106a3bc7b6feaad3a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-24 03:59:43</sys_updated_on>
+        <table>x_1521034_gym_mana_transactions</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gym Management">61ff91bbc3911210c6c65fedd4013193</application>
+        <file_path/>
+        <instance_id>5cb9feafdb214a9802022a59139619d4</instance_id>
+        <instance_name>dev261229</instance_name>
+        <name>sys_ui_module_c4a3b53b835112106a3bc7b6feaad3a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Transactions">0ca3b53b835112106a3bc7b6feaad39d</application><filter/><name>Transactions</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_1521034_gym_mana.transactions_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-24 03:59:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c4a3b53b835112106a3bc7b6feaad3a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Transactions</sys_name><sys_package display_value="Gym Management" source="x_1521034_gym_mana">61ff91bbc3911210c6c65fedd4013193</sys_package><sys_policy/><sys_scope display_value="Gym Management">61ff91bbc3911210c6c65fedd4013193</sys_scope><sys_update_name>sys_ui_module_c4a3b53b835112106a3bc7b6feaad3a0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-24 03:59:43</sys_updated_on><table>x_1521034_gym_mana_transactions</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>166587832</payload_hash>
+        <record_name>Transactions</record_name>
+        <reverted_from/>
+        <source>61eead73831112106a3bc7b6feaad3fe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-24 03:59:43</sys_created_on>
+        <sys_id>c8a3b53b835112106a3bc7b6feaad3a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192bcae28140000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-24 03:59:43</sys_updated_on>
+        <type>Module</type>
+        <update_guid>cca3b53b6f5112102ac38e47019052a1</update_guid>
+        <update_guid_history>cca3b53b6f5112102ac38e47019052a1:166587832</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-24 04:17:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>628e2bad1292494099e49a658af5fb99</sys_id>
+        <sys_metadata>c4a3b53b835112106a3bc7b6feaad3a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Transactions</sys_name>
+        <sys_package display_value="Gym Management" source="x_1521034_gym_mana">61ff91bbc3911210c6c65fedd4013193</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gym Management">61ff91bbc3911210c6c65fedd4013193</sys_scope>
+        <sys_scope_delete display_value="">862e8ebd8a6741908a8614714c804240</sys_scope_delete>
+        <sys_update_name>sys_ui_module_c4a3b53b835112106a3bc7b6feaad3a0</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_c4a3b53b835112106a3bc7b6feaad3a0">c8a3b53b835112106a3bc7b6feaad3a2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-24 04:17:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
