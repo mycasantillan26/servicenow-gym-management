@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Workout Plan Enrollment">68083ebc83e596107818c810feaad3bb</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-27 12:27:52</sys_created_on>
+        <sys_id>a7534b3483e996107818c810feaad36f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workout Plan Enrollment.Members Only</sys_name>
+        <sys_package display_value="Gym Management" source="x_1521034_gym_mana">61ff91bbc3911210c6c65fedd4013193</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gym Management">61ff91bbc3911210c6c65fedd4013193</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_a7534b3483e996107818c810feaad36f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-27 12:27:52</sys_updated_on>
+        <user_criteria display_value="Members Only">08140ff8832d96107818c810feaad3c2</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>
